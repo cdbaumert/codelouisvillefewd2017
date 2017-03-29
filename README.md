@@ -5,7 +5,7 @@
 
 //Top section will use bootstrap carousel to cycle through options to select federal, state, or local information
 //Middle section will use columns to display options to learn about success stories, resources, and share your story
-//Bottom section will provide information about webinars and becoming a member of SPED Portal
+//Bottom section will provide information about webinars, with a working video modal, and becoming a member of SPED Portal
 
 //This project uses Bootstrap, a popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 
